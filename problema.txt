@@ -1,0 +1,7 @@
+voce possui um pc em escritorio e em casa.
+
+projeto esta sendogerenciado no github (um terceiro pc servidor)
+
+qual seria um problema nesta situação
+
+eu faço uma versão no escritorio. em casa eu baixo a versão um e atualizo ela, envio para o servidor e ja no escritorio eu baixo a versão q envie de casa para o servidor.
